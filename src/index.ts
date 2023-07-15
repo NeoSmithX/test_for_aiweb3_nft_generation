@@ -10,7 +10,7 @@ async function main(){
     console.log(app_info)
 
     // test the api
-    
+    // const result = await app.predict("/predict", [4, "add", 5]);
 }
 
 main().then(() => {
