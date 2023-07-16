@@ -1,0 +1,11 @@
+node_modules
+.pnp.cjs
+.pnp.loader.mjs
+.yarn
+.docusaurus
+build
+yarn.lock
+.DS_Store
+**/.DS_Store
+.vercel
+config
