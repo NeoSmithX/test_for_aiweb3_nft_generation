@@ -2,4 +2,4 @@
 
 2. tsc
 
-3. node dist/index.js
+3. node dist/src/index.js
