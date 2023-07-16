@@ -1,4 +1,4 @@
-1. yarn install
+1. npm i
 
 2. tsc
 
